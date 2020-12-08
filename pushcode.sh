@@ -1,5 +1,5 @@
 echo "Hello!"
-git config --global credential.helper wincred
+git config credential.helper store
 git config --global user.email "shrishtisakshi311@gmail.com"
 git config --global user.name "RealRadOne"
 git add .
