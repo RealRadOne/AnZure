@@ -1,5 +1,5 @@
 echo "Hello!"
-git config --global user.email "shrishtisakshi311@gmail.com"
+git config --global credential.helper store
 git config --global user.name "RealRadOne"
 git config --global user.password "SAKSHIsinh7@98"
 git add .
